@@ -20,7 +20,8 @@
 
 7.Now click on 'change password' and enter the password as '1234' (excluding quotes) retype the same, 1234 and finally click on 'Go'
 
-8.Now click on 'Databases', it will ask you to login again, this time type 'root' (excluding quotes) as username and password as '1234' (excluding quotes) and click on 'Go'.
+8.Now click on 'Databases', it will ask you to login again, this time type 'root' (excluding quotes) as username and password as '1234'
+(excluding quotes) and click on 'Go'.
 
 9.Now click on 'Databases' then 'New' then type 'db_hc' (without quotea) in the field of 'Database name' and click on 'Create' button
 
