@@ -41,6 +41,8 @@
   x)    plugins
   xi)   don't copy the folder named 'pages' instead of, copy all the files which are inside that folder to My_Site
   
+  AFTER DOING ABOVE TASKS THE FOLDER 'My_Site' will look like as in screenshot (refer pic 'Screenshot')
+  
   and go back to the browser window
   
   
