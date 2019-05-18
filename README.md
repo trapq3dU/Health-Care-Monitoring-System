@@ -47,16 +47,16 @@
   
   
 12.Now click on the 'db_hc' (from the left most panel) and then click on 'import' (from the top bar) and browse to this path
-C:\wamp64\www\My_Site\Database File
-and select the file (db_hc.sql) and click on 'Go' button
+"C:\wamp64\www\My_Site\Database File"
+And select the file (db_hc.sql) and click on 'Go' button
 
 13.Now you are all set, just type the following address in url bar of your browser
 http://localhost/my_site/home.php   (this will open the home page of the project)
 
 
-Note: Bookmark following urls to access home page of the project and phpmyadmin login page to access the datadabe
+Note: Bookmark following urls to access home page of the project and phpmyadmin login page to access the datadase
 http://localhost/my_site/home.php       (to access the project's home page)
-http://localhost/phpmyadmin/index.php   (to access the datadabe and tables)
+http://localhost/phpmyadmin/index.php   (to access the datadase and tables)
 
 
 
